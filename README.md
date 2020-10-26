@@ -14,9 +14,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Проверка
 
-На данный момент добавил только api от coinmarketcap, ключ
-Ссылка проверки `https://pro-api.coinmarketcap.com/v1/cryptocurrency/quotes/latest`, <br/>
-название валюты вводите в сокращённом формате (BTC/ETH/LTC и тд).
+На данный момент добавил только api от coinmarketcap, ключ уже в коде. <br/>
+Ссылка для `https://pro-api.coinmarketcap.com/v1/cryptocurrency/quotes/latest`, <br/>
+название валюты вводите в сокращённом формате (BTC/ETH/LTC и тд).<br/>
+
+Всё делал через url, так что при желаниее можно просто получить ещё кучу api ключей и подключить их.
 
 ## WARNING
 
