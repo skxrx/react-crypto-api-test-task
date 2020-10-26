@@ -23,4 +23,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Coinmarketcap API не будет реботать просто так (hahaaaa),<br/>
 я использовал расширение [Moesif CORS](https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc) для хрома <br/>
 
-ПЫСЫ: Не забудьте выключить расширение, иначе ютуб будет бесконечно показывать вам колёсико загрузки.
+ПЫСЫ: Не забудьте выключить расширение, иначе ютуб будет бесконечно показывать вам колёсико загрузки(shootMe).
